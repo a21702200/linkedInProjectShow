@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">ProjectCM</string>
+    <string name="dashboard">Tablero</string>
+    <string name="register">Registrar</string>
+    <string name="list">Lista de Películas</string>
+    <string name="registo_de_filmes">Registro de Películas</string>
+    <string name="nome_do_filme">Nombre de la Película</string>
+    <string name="rating_0_10">Valoración 1–10</string>
+    <string name="observations">Observaciones</string>
+    <string name="submit">Enviar</string>
+    <string name="cinema">Nombre del Cine</string>
+    <string name="movie_app">Aplicación de Películas</string>
+    <string name="featured_movie_title">"Título de la Película Destacada"</string>
+    <string name="featured_movie_description">"Película Increíble!"</string>
+    <string name="movies_list">Lista de Películas</string>
+    <string name="movie_genre">Género de Película</string>
+    <string name="movie_synopsis">Sinopsis de la Película</string>
+    <string name="movie_launch_date">Fecha de Lanzamiento</string>
+    <string name="imdb_rating_7_5_10">Valoración IMDb: 0/10</string>
+    <string name="date_seen">Fecha Vista</string>
+    <string name="cinemaProvider">Cinema Provider</string>
+
+    <string-array name="Rate">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="cinemas_info">Información de Cines</string>
+    <string name="cinemas_information">Información de Cines</string>
+    <string name="mapa">Mapa</string>
+    <string name="monday">Lunes</string>
+    <string name="open">Abierto</string>
+    <string name="close">Cerrado</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+    <string name="registo_label">Elige la película que deseas registrar</string>
+    <string name="Enter_movie_name">Ingresa el nombre de la película</string>
+    <string name="Procurar">Buscar</string>
+    <string name="Proximidade">Proximidad</string>
+    <string name="movie_name_filter">Nombre de la Película</string>
+    <string name="_500_metros">500 Metros</string>
+    <string name="_1000_metros">1000 Metros</string>
+    <string name="applyfilter">Aplicar Filtro</string>
+    <string name="filterbuttonlist">Filtrar</string>
+    <string name="movie_genre_details">Género de la Película:</string>
+    <string name="movie_synopsis_label">Sinopsis de la Película:</string>
+    <string name="movie_launch_date_label">Fecha de Lanzamiento:</string>
+    <string name="imdb_rating_label">Valoración IMDb:</string>
+    <string name="raing_label_0_10">Valoración:</string>
+    <string name="date_seen_label">Fecha Vista:</string>
+    <string name="observations_label">Observaciones:</string>
+    <string name="cinema_label_frequented">Cine más frecuentado: </string>
+    <string name="number_registrations">Número de Inscripciones:</string>
+    <string name="languages">Idiomas: </string>
+    <string name="number_registrations_rate_media">Media de tasas:</string>
+    <string name="filter_by_name">Filtrar por Nombre</string>
+    <string name="data_visualized">Fecha Vista</string>
+    <string name="ratings_cinema">Valoraciones del Cine</string>
+    <string name="adress_cinema">Dirección del Cine</string>
+    <string name="hifen">-</string>
+    <string name="awards_label">Premios:</string>
+    <string name="awards">Premios</string>
+    <string name="director_label">Director:</string>
+    <string name="director">Director</string>
+    <string name="actors">Actores</string>
+    <string name="actors_label">Actores:</string>
+    <string name="n_a">N/A</string>
+    <string name="open_imdb">Abrir Imdb</string>
+    <string name="imdb_link">Imdb Link:</string>
+    <string name="votes_label">Votos imdb:</string>
+    <string name="cleaning_rooms">Limpieza de habitaciones:</string>
+    <string name="image_quality">Calidad de imagen:</string>
+    <string name="confort">Comodidad:</string>
+    <string name="sound_quality">Calidad de sonido:</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrado</string>
+    <string name="sarch_registration">Buscar registro</string>
+    <string name="photos_registration">Registro de fotos:</string>
+    <string name="add_photos">Add Fotos</string>
+    <string name="photos_count">"Número de Fotos: "</string>
+    <string name="cinemas_number">Nº Cinemas:</string>
+</resources>

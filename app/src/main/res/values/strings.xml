@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">ProjectCM</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="register">Register</string>
+    <string name="list">Movie List</string>
+    <string name="registo_de_filmes">Movie Registration</string>
+    <string name="nome_do_filme">Movie Name</string>
+    <string name="rating_0_10">Rating 1–10</string>
+    <string name="observations">Observations</string>
+    <string name="submit">Submit</string>
+    <string name="cinema">Cinema Name</string>
+    <string name="movie_app">Movie App</string>
+    <string name="featured_movie_title">"Featured Movie Title"</string>
+    <string name="featured_movie_description">"Awesome Movie!"</string>
+    <string name="movies_list">Movie List</string>
+    <string name="movie_genre">Movie Genre</string>
+    <string name="movie_synopsis">Movie Synopsis</string>
+    <string name="movie_launch_date">Release Date</string>
+    <string name="imdb_rating_7_5_10">IMDb Rating: 0/10</string>
+    <string name="date_seen">Date Seen</string>
+    <string name="cinemaProvider">Cinema Provider</string>
+
+    <string-array name="Rate">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="cinemas_info">Cinemas Info</string>
+    <string name="cinemas_information">Cinemas Information</string>
+    <string name="mapa">Map</string>
+    <string name="monday">Monday</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="registo_label">Choose the movie you want to register</string>
+    <string name="Enter_movie_name">Enter movie name</string>
+    <string name="Procurar">Search</string>
+    <string name="Proximidade">Proximity</string>
+    <string name="movie_name_filter">Movie Name</string>
+    <string name="_500_metros">500 Meters</string>
+    <string name="_1000_metros">1000 Meters</string>
+    <string name="applyfilter">Apply Filter</string>
+    <string name="filterbuttonlist">Filter</string>
+    <string name="movie_genre_details">Movie Genre:</string>
+    <string name="movie_synopsis_label">Movie Synopsis:</string>
+    <string name="movie_launch_date_label">Release Date:</string>
+    <string name="imdb_rating_label">IMDb Rate:</string>
+    <string name="raing_label_0_10">Rating:</string>
+    <string name="date_seen_label">Date Seen:</string>
+    <string name="observations_label">Observations:</string>
+    <string name="cinema_label_frequented">Most Frequented Cinema:</string>
+    <string name="number_registrations">Number of Registrations:</string>
+    <string name="languages">Languages: </string>
+    <string name="number_registrations_rate_media">Media of Rates:</string>
+    <string name="filter_by_name">Filter By Name</string>
+    <string name="data_visualized">Seen Date</string>
+    <string name="ratings_cinema">Ratings Cinema</string>
+    <string name="adress_cinema">Address Cinema</string>
+    <string name="hifen">-</string>
+    <string name="awards_label">Awards:</string>
+    <string name="awards">Awards</string>
+    <string name="director_label">Director:</string>
+    <string name="director">Director</string>
+    <string name="actors">Actors</string>
+    <string name="actors_label">Actors:</string>
+    <string name="n_a">N/A</string>
+    <string name="open_imdb">Open Imdb</string>
+    <string name="imdb_link">Imdb Link:</string>
+    <string name="votes_label">Imdb Votes:</string>
+    <string name="cleaning_rooms">Cleaning rooms:</string>
+    <string name="image_quality">Image quality:</string>
+    <string name="confort">Comfort:</string>
+    <string name="sound_quality">Sound quality:</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Closed</string>
+    <string name="sarch_registration">Search registration</string>
+    <string name="photos_registration">Photos Registration:</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="photos_count">"Number Photos: "</string>
+    <string name="cinemas_number">Nº Cinemas:</string>
+</resources>
