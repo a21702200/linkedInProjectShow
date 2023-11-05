@@ -5,7 +5,7 @@
 
 **(Existiu um maior desenvolvimento após avaliação deste trabalho, o qual poderá ter documentação desatualizada, contudo todo o codigo neste github está atualizado e na mais recente versão)**
 
-**(Neste respositorio não inclui persistencia de dados na rotação do ecra(lista) com o uso do "Parcelable", no entanto no meu repositorio privado essa "funcionalidade" encontra-se implementada)**
+**(Neste respositorio não inclui persistencia de dados na rotação do ecra(lista) com o uso do "Parcelable"(implementado na class "RegistrationData"), no entanto no meu repositorio privado essa "funcionalidade" encontra-se implementada)**
 
 - Secreenshots App
 
