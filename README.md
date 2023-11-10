@@ -111,7 +111,7 @@ No DashBoard a imagem de apresentação com o imagem do filme "Black Panther", c
 
 [Video](https://www.youtube.com/watch?v=ahoMPmi38v0) -> **VERSÃO ANTIGA DO PROJETO, APENAS DEMONSTRATIVO**
 
-## Descrição nome classes, métodos e atributos:
+## Descrição nome classes, métodos e atributos
 
 - Cinemas: (Usado para obter todas as informações de cada cinema providenciado do json, tais como: id, nome, provedor de cinema, logo, latitude e longitude, morada, codigo postal, cidade, fotos, ratings e Horas de funcionamento)
 
