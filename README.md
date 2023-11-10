@@ -7,7 +7,7 @@
 
 **(Neste repositorio não inclui persistencia de dados na rotação do ecra(lista) com o uso do "Parcelable"(implementado na class "RegistrationData"), no entanto no meu repositorio privado essa "funcionalidade" encontra-se implementada)**
 
-- Secreenshots App
+## Secreenshots App
 
 <div class="image-container">
   <img src="dashboard.png" width="300">
@@ -53,9 +53,9 @@
 
 <br>
 
-- Screenshots Multi Idioma <br>
+## Screenshots Multi Idioma
 
-<br> - Espanhol (**layout/versão antiga**)<br>
+### Espanhol (**layout/versão antiga**)
 
 <div class="image-container">
   <img src="Dashboard_es.png" width="300">
@@ -63,7 +63,7 @@
   <img src="DetailMovie_es.png" width="300">
 </div>
 
-<br> - Português (**layout/versão antiga**)<br>
+### Português (**layout/versão antiga**)
 
 <div class="image-container">
   <img src="Dasboard_pt.png" width="300">
@@ -72,10 +72,10 @@
 </div>
 
 
-Dados introduzidos hardcoded na aplicação:
+## Dados introduzidos hardcoded na aplicação
 No DashBoard a imagem de apresentação com o imagem do filme "Black Panther", com titulo do mesmo e "Amazing Movie"(este ultimo muda consoante o idioma).
 
-**Funcionalidades Implementadas:**<br>
+## Funcionalidades Implementadas
 
 - Dashboard<br>
 - Apresentação dos filmes - Lista<br>
@@ -111,9 +111,7 @@ No DashBoard a imagem de apresentação com o imagem do filme "Black Panther", c
 
 [Video](https://www.youtube.com/watch?v=ahoMPmi38v0) -> **VERSÃO ANTIGA DO PROJETO, APENAS DEMONSTRATIVO**
 
-Descrição nome classes, métodos e atributos: <br>
-
-**Classes e Métodos:**<br>
+## Descrição nome classes, métodos e atributos:
 
 - Cinemas: (Usado para obter todas as informações de cada cinema providenciado do json, tais como: id, nome, provedor de cinema, logo, latitude e longitude, morada, codigo postal, cidade, fotos, ratings e Horas de funcionamento)
 
@@ -232,7 +230,8 @@ abstract class ProjectData {
 
 }<br>
 
-**Métodos usados neste ProjectData(que estão presentes ProjectOkHttp, ProjectRepository e ProjectRoom):**<br><br>
+## Métodos usados neste ProjectData(que estão presentes ProjectOkHttp, ProjectRepository e ProjectRoom)
+
 getAllCinemas -> obter todos os cinemas<br>
 getCinemaObjectByName -> obter objeto cinema em especifico pelo nome<br>
 getCinemaObjectById -> obter objeto cinema em especifico pelo id<br>
@@ -247,6 +246,8 @@ getFilmeById -> obter detalhes do filme por id (id vindo da api)<br>
 getFilmesByName -> obter detalhes dos filmes pesquisados pelo nome (detalhes escolhidos vindos da api) <br>
 
 insertFilmesAntesRegisto -> inserir filmes encontrados à priori na base de dados encontrados pelo o nome na api, para o utilizador depois escolher o filme pretendido a registar<br>
+
+## Fontes Usadas
 
 ChatGPT Traduções(xml traduzido):<br>
 
@@ -271,7 +272,7 @@ https://www.tutorialspoint.com/how-to-parse-json-objects-on-android-using-kotlin
 -> Inicialmente era utilizado glide, mas foi mudado para o Picasso por crashar a app (apresentação de imagens com link) https://github.com/square/picasso<br>
 -> implementação dos markers (Mapa)<br>
 
-**Notas:**<br>
+## Notas
 ->Por vezes os logs na consola de distancia estão a reportar de modo confuso a distancia, mas é a correta e funcina como devido.
 Foi testado inumeras vezes, >500 metros, entre 500 e 1000 metros, como tambem >1000(que já nao aparece nenhum resultado), mesmo com auxilio do google maps e a ferramenta de medições de distancia, afetou sempre a lista corretamente com os filmes do cinema entre as distancia pretendida, tendo em conta a localização atual
 
