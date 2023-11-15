@@ -3,6 +3,8 @@
 
 **(Este trabalho foi um projeto de faculdade, onde exigiu o cumprimento de requesitos obrigatorios e suas restrições(este ultimo, por exemplo, sem implementar qualquer tipo de "LiveData" ou "RxJava"))**
 
+**(Este projeto utiliza padrão MVC"))**
+
 **(Existiu um maior desenvolvimento após avaliação deste trabalho, o qual poderá ter documentação desatualizada, contudo todo o codigo neste github está atualizado e na mais recente versão)**
 
 **(Neste repositorio não inclui persistencia de dados na rotação do ecra(lista) com o uso do "Parcelable"(implementado na class "RegistrationData"), no entanto no meu repositorio privado essa "funcionalidade" encontra-se implementada)**
